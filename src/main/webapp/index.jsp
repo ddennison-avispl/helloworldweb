@@ -5,6 +5,7 @@
 
         <h1>!!! Welcome to the DevOps Fundamentals Training on 25st May 2022!!!</h1>
 	<h2> This is a Test page for demonstrating CI and CD with Jenkins CI Server</h2>
+	<h2> ---- Enjoy the Change ----</h2>
 <form>
 	First name:<br>
 	 	<input type="text" name="firstname"><br>
